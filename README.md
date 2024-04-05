@@ -5,7 +5,7 @@
 [Haz click aquí para ver la versión en español de la documentación](README_ES.md)
 
 ## Introduction
-This project was developed by students of Tecnológico de Monterrey, Campus Puebla, to establish a robust network infrastructure capable of supporting the Mexican Informatics Olympiad. The project spanned from February to June 2023, involving a comprehensive analysis, design, and implementation of network solutions to meet high standards of quality and reliability.
+This project was developed to establish a robust network infrastructure capable of supporting the Mexican Informatics Olympiad. The project spanned from February to June 2023, involving a comprehensive analysis, design, and implementation of network solutions to meet high standards of quality and reliability.
 
 ## Team Members
 - Hugo Muñoz Rodríguez | A01736149
