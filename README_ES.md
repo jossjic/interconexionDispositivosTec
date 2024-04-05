@@ -2,7 +2,7 @@
 [Click here to see the english version of the documentation](README.md)
 
 ## Introducción
-Este proyecto fue desarrollado por estudiantes del Tecnológico de Monterrey, Campus Puebla, con el objetivo de establecer una infraestructura de red robusta capaz de soportar la Olimpiada Mexicana de Informática. El proyecto se extendió de febrero a junio de 2023, involucrando un análisis integral, diseño e implementación de soluciones de red para cumplir con altos estándares de calidad y fiabilidad.
+Este proyecto fue desarrollado con el objetivo de establecer una infraestructura de red robusta capaz de soportar la Olimpiada Mexicana de Informática. El proyecto se extendió de febrero a junio de 2023, involucrando un análisis integral, diseño e implementación de soluciones de red para cumplir con altos estándares de calidad y fiabilidad.
 
 ## Miembros del Equipo
 - Hugo Muñoz Rodríguez | A01736149
